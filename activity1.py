@@ -9,5 +9,5 @@ print(b)
 print(type(b))
 # display the total cost of purchase
 c=5*b
-print(c)
+print(c)   
 
